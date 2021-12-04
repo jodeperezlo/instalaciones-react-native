@@ -1,5 +1,11 @@
 # React Native
 
+## Documentación Oficial
+
+Para verificar que no exista algún cambio, se recomienda revisar siempre la página oficial de React Native.
+
+[Setting up the development environment · React Native](https://reactnative.dev/docs/environment-setup)
+
 ## Instalaciones recomendadas por Fernando Herrera
 
 [Instalaciones recomendadas para el curso de React Native](https://gist.github.com/Klerith/e2c1fe2bcf5bfcd0a12fff653e725284)
