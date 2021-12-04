@@ -40,7 +40,7 @@ Si la respuesta del comando es **Restricted**, ejecutamos el siguiente comando:
 Set-ExecutionPolicy AllSigned
 ```
 
-Si la respuesta es **AllSigned**,  podemos continuar, de lo contrario, ejecutamos el siguiente comando:
+Si la respuesta es AllSigned,  podemos continuar hasta la instalación de Chocolatey, de lo contrario, ejecutamos el siguiente comando:
 
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process
@@ -52,6 +52,7 @@ En caso de seguir con problemas, ejecutar lo siguiente:
 Set-ExecutionPolicy -ExecutionPolicy AllSigned -Scope Process
 ```
 
+### Instalación de Chocolatey
 Para finalizar con la instalación de Chocolatey, correremos el siguiente comando:
 
 ```powershell
